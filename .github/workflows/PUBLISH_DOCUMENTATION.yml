@@ -36,7 +36,7 @@ jobs:
           transform-for-static-hosting /tmp/docbuild/Build/Products/Debug-iphoneos/swift-study.doccarchive \
           --hosting-base-path swift-study \
           --output-path docs;
-        echo "<script>window.location.href += \"/documentation/swift-study\"</script>" > docs/index.html
+        echo "<script>window.location.href += \"/documentation/swift_study\"</script>" > docs/index.html
     - name: artifact 업로드
       uses: actions/upload-pages-artifact@v1
       with:
