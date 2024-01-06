@@ -11,3 +11,8 @@
 ### WWDC23
 
 - <doc:23DEC12-meet-mergeable-library>
+
+### Apple Developer Docs
+
+- <doc:23OCT01-supporting-associated-domains>
+- <doc:23OCT01-allowing-apps-and-websites-to-link-to-your-content>

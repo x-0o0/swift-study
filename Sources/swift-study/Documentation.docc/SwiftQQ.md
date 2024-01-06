@@ -11,3 +11,11 @@
 ### SwiftUI
 
 - <doc:23DEC26-single-sheet-support>
+
+### Foundation
+
+- <doc:23AUG22-url-returns-nil>
+
+### XCTest
+
+- <doc:23OCT01-using-local-json-for-testing>

@@ -20,11 +20,13 @@
 
 - <doc:23DEC09-spi>
 - <doc:23NOV21-missing-library>
+- <doc:23NOV08-call-as-function>
 
 ### 🌿 Green
 
 ### 🫐 Blue
 
-- <doc:23NOV04-xcodebuild-docbuild>
 - <doc:24JAN06-github-actions-diffs>
+- <doc:23NOV06-deploy-package-to-cocoapods>
+- <doc:23NOV04-xcodebuild-docbuild>
 
