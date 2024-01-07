@@ -1,5 +1,7 @@
 # GitHub Actions 워크플로우를 커멘트로 트리거해서 PR 브랜치 코드 검증하기
 
+GitHub Actions 워크플로우를 Pull Request 커멘트로 트리거할 때 Pull Request 브랜치로 체크아웃하기
+
 ## Overview
 
 | 프로퍼티 | 설명 |
