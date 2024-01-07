@@ -26,6 +26,7 @@
 
 ### 🫐 Blue
 
+- <doc:24JAN07-github-actions-checkout>
 - <doc:24JAN06-github-actions-diffs>
 - <doc:23NOV06-deploy-package-to-cocoapods>
 - <doc:23NOV04-xcodebuild-docbuild>
